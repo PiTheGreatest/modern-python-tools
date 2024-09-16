@@ -11,3 +11,4 @@ st.subheader("Simple App")
 st.write("""Brought to you by Pris.
 Enjoy!""")
 st.write(df)
+st.line_chart(df)
